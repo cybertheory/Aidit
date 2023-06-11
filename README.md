@@ -1,5 +1,11 @@
 # AIdit
-An Open Standard made to audit AI and prompt based apps. AIdit defines a set of API endpoints and standardized metrics to audit AI applications and service. AIdit comes in response the rise of concerns and doom mongering on the potential to control and manipulate the public using LLMs and similar models. AIdit allows the public open access to metrics calculated on top of a service's output. This in theory should allow services to garner public trust through transparency that their models are functioning for their primary purpose and nothing more. And that their service provides a level of safety and gaurantee of individual autonomy expected by the public. AIdit also aims to allow developers to create superior AI applications by monitoring their services' real world performance and approach.
+An Open Standard made to audit AI and prompt based apps. AIdit defines a set of API endpoints and standardized metrics to audit AI applications and service. AIdit comes in response the rise of concerns and doom mongering on the potential to control and manipulate the public using LLMs and similar models. 
+
+AIdit allows the public open access to metrics calculated on top of a service's output. 
+
+This in theory should allow services to garner public trust through transparency that their models are functioning for their primary purpose and nothing more. And that their service provides a level of safety and gaurantee of individual autonomy expected by the public. 
+
+AIdit also aims to allow developers to create superior AI applications by monitoring their services' real world performance and approach.
 
 ## Scope
 1. AIdit aims to adress the nature of input and output of AI enabled services. By auditing the input and output of AI models, AIdit is able to establish metrics that give transparency as to how models process and transform data. 
