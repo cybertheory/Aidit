@@ -10,6 +10,11 @@ AIdit also aims to allow developers to create superior AI applications by monito
 ## Scope
 1. AIdit aims to adress the nature of input and output of AI enabled services. By auditing the input and output of AI models, AIdit is able to establish metrics that give transparency as to how models process and transform data. 
 2. AIdit also aims to provide estimations on processing and cost of running prompt and models, to establish fair pricing transparency and social regulation. This is to prevent services from using advanced computation and taking advantage of user data at inequitable and unsustanable rates.
+3. AIdit specifically focuses on external public auditing, although it can also be beneficial for internal use cases.
+
+## Whitepapers
+AIdit is the result of careful study of existing audit frameworks in the industry as well auditing approaches specifically for AI.
+1. [ISACA Whitepaper](https://ec.europa.eu/futurium/en/system/files/ged/auditing-artificial-intelligence.pdf)
 
 ## Contributing
 
