@@ -48,7 +48,7 @@ We will review your pull request as soon as possible and provide feedback or mer
 
 ### Feature Implementation and Discussions
 
-For major feature implementations or significant changes, it is recommended to open a discussion on the [project's discussion board](https://github.com/cybertheory/Aidit/discussions/1) to gather feedback and suggestions from the community before investing substantial time and effort into the development process.
+For major feature implementations or significant changes, it is recommended to open a discussion on the [project's discussion board](https://github.com/cybertheory/Aidit/discussions/1) or join our community on [discord](https://discord.gg/dPvbX8hZa9) to gather feedback and suggestions from the community before investing substantial time and effort into the development process.
 
 ### Code of Conduct
 
