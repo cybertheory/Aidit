@@ -1,5 +1,5 @@
 # AIdit
-An Open Standard made to audit AI and prompt based apps. AIdit defines a set of API endpoints and standardized metrics to audit AI applications and service. AIdit comes in response the rise of concerns and doom mongering on the potential to control and manipulate the public using LLMs and similar models. 
+An Open Standard made to audit AI and prompt based apps. AIdit defines a set of API endpoints and standardized metrics to enforce public audit of AI applications and service. AIdit comes in response the rise of concerns and doom mongering on the potential to control and manipulate the public using LLMs and similar models. 
 
 AIdit allows the public open access to metrics calculated on top of a service's output. 
 
