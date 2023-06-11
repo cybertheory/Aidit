@@ -15,7 +15,7 @@ AIdit also aims to allow developers to create superior AI applications by monito
 
 
 ## Whitepapers
-AIdit is the result of careful study of existing audit frameworks in the industry as well auditing approaches specifically for AI.
+AIdit is the result of careful study of existing audit frameworks in the industry as well auditing approaches specifically for AI. Add and list whitepapers here.
 1. [ISACA Whitepaper](https://ec.europa.eu/futurium/en/system/files/ged/auditing-artificial-intelligence.pdf)
 
 ## Contributing
