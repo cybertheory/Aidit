@@ -11,7 +11,7 @@ AIdit also aims to allow developers to create superior AI applications by monito
 1. AIdit specifically focuses on external public auditing, although it can also be beneficial for internal use cases.
 2. AIdit aims to adress the nature of input and output of AI enabled services. By auditing the input and output of AI models, AIdit is able to establish metrics that give transparency as to how models process and transform data. 
 3. AIdit also aims to provide estimations on processing and cost of running prompt and models, to establish fair pricing transparency and social regulation. This is to prevent services from using advanced computation and taking advantage of user data at inequitable and unsustanable rates.
-4. With the inevitable rise of autonomous systems and AI agents AIdit also aims to audit and externalize system to system communication by exposing anonymized metrics. This way public auditors can raise flags if certain communication if of concern.
+4. With the inevitable rise of autonomous systems and AI agents, AIdit also aims to audit and externalize system to system communication by exposing anonymized metrics. This way public auditors can raise flags if certain communication is of concern.
 
 
 ## Whitepapers
